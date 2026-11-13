@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idorosh.github.io/spoonleaf-site/sitemap.xml
